@@ -19,19 +19,19 @@ const monthYear = document.getElementById('month-year');
 
   const eventsMap = {
     '2025-07': {
-       3: { text: "NIGHT QUIZ", url: "../quiznight/index.html" },
-      10: { text: "NIGHT QUIZ", url: "../quiznight/index.html" },
-      11: { text: "POKER TOURNAMENT", url: "../poker/index.html" },
-      17: { text: "NIGHT QUIZ", url: "../quiznight/index.html" },
-      24: { text: "NIGHT QUIZ", url: "../quiznight/index.html" },
-      31: { text: "NIGHT QUIZ", url: "../quiznight/index.html" },
-      24: { text: "HOUSE OF STAKE", url: "../houseofstake/index.html" }
+       3: { text: "NIGHT QUIZ", url: "https://5andbox.github.io/c/nightquiz/index.html" },
+      10: { text: "NIGHT QUIZ", url: "https://5andbox.github.io/c/nightquiz/index.html" },
+      11: { text: "POKER TOURNAMENT", url: "https://5andbox.github.io/c/poker/index.html" },
+      17: { text: "NIGHT QUIZ", url: "https://5andbox.github.io/c/nightquiz/index.html" },
+      24: { text: "NIGHT QUIZ", url: "https://5andbox.github.io/c/hnightquiz/index.html" },
+      31: { text: "NIGHT QUIZ", url: "https://5andbox.github.io/c/nightquiz/index.html" },
+      24: { text: "HOUSE OF STAKE", url: "https://5andbox.github.io/c/houseofstake/index.html" }
     },
     '2025-08': {
-       7: { text: "NIGHT QUIZ", url: "#" },
-      14: { text: "NIGHT QUIZ", url: "#" },
-      21: { text: "NIGHT QUIZ", url: "#" },
-      28: { text: "NIGHT QUIZ", url: "#" }
+       7: { text: "NIGHT QUIZ", url: "https://5andbox.github.io/c/nightquiz/index.html" },
+      14: { text: "NIGHT QUIZ", url: "https://5andbox.github.io/c/nightquiz/index.html" },
+      21: { text: "NIGHT QUIZ", url: "https://5andbox.github.io/c/nightquiz/index.html" },
+      28: { text: "NIGHT QUIZ", url: "https://5andbox.github.io/c/nightquiz/index.html" }
     }
   };
 
