@@ -465,3 +465,20 @@ body, html {
 .p-t-10{
   padding-top: 10px;
 }
+
+a {
+  color: inherit; 
+  text-decoration: none; 
+}
+
+a:visited {
+  color: inherit;
+}
+
+a:hover {
+  color: inherit;
+}
+
+a:active {
+  color: inherit;
+}
